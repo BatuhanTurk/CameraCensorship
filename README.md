@@ -43,4 +43,3 @@
 ![A](https://user-images.githubusercontent.com/54184905/123063638-46600900-d416-11eb-8426-f0b996e55064.png)
 
 ![B](https://user-images.githubusercontent.com/54184905/123063650-47913600-d416-11eb-9b4f-7835bbee0bb8.png)
-

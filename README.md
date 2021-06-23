@@ -27,6 +27,7 @@
 
 * [Data labeling](https://github.com/tzutalin/labelImg)
 
+
 * [Creating a .record file by combining data and .csv files](/FinalDataAndCSV/generate_tfrecord.py)
 
 **Train and Test :** After making the necessary configurations in TensorFlow 2 Object Detection API, training is started with a powerful gpu, you can monitor all the results of your training with tensorboard. At any time, you can end the training and get the trained weights, then you can test with these weights.
